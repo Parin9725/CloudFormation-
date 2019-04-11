@@ -1,6 +1,3 @@
-#This servcie not use in Our company so i am using this servcie first time
-#i tryed to give my best hope you can understand 
-
 #This Cloudformation templete Create VPC,InternetGateway,1-PublicSubnet,2-PrivateSubnet,RouteTable,Securitygroup(Allow port 80,443),instance.
 
 Step-1 Go to Cloudformation
